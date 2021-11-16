@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-16 06:44:38</sys_created_on>
+        <sys_id>ce77e0ea2f3330106cbe55272799b636</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_432227_food_rest_foody.x_432227_food_rest.food admin</sys_name>
+        <sys_package display_value="Food restaurent" source="x_432227_food_rest">486f14222f3330106cbe55272799b62d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Food restaurent">486f14222f3330106cbe55272799b62d</sys_scope>
+        <sys_security_acl display_value="x_432227_food_rest_foody">4677e0ea2f3330106cbe55272799b634</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ce77e0ea2f3330106cbe55272799b636</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-16 06:44:38</sys_updated_on>
+        <sys_user_role display_value="x_432227_food_rest.food admin" name="x_432227_food_rest.food admin">c0e024222f3330106cbe55272799b6fe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
